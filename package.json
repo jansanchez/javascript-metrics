@@ -1,0 +1,34 @@
+{
+  "name": "javascript-metrics",
+  "version": "1.0.0",
+  "description": "Proyecto para implementar metricas de codigo Javascript",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jansanchez/javascript-metrics.git"
+  },
+  "keywords": [
+    "Cyclomatic",
+    "Complexity",
+    "Maintainability",
+    "Index",
+    "Halstead",
+    "Metrics",
+    "escomplex",
+    "plato"
+  ],
+  "author": "jansanchez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jansanchez/javascript-metrics/issues"
+  },
+  "homepage": "https://github.com/jansanchez/javascript-metrics",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-complexity": "^0.3.0",
+    "plato": "^1.5.0"
+  }
+}
